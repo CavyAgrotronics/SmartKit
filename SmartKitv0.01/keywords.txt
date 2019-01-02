@@ -1,9 +1,0 @@
-SmartKit	KEYWORD1
-LcdBegin	KEYWORD1
-SetCursor	KEYWORD1
-LcdPrint	KEYWORD1
-LcdClear	KEYWORD1
-SetPort	KEYWORD1
-GetString	KEYWORD1
-
-
